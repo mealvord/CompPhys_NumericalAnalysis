@@ -1,4 +1,6 @@
-## stuff here
+## Welcome to my Markdown Testing Page
+
+#### Eventually this will be an overview of the course I teach!
 
 This is a markdown file! 
 
